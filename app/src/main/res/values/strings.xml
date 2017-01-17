@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Traductor</string>
+    <string name="video_button">Video Recorder Button</string>
+    <string name="camera_button">Camera Capture Button</string>
+    <string name="title_activity_real_time">RealTimeActivity</string>
+    <string name="title_activity_test">test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
